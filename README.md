@@ -35,3 +35,13 @@
 9. `git commit -m "message"`
    Saves the staged changes with a commmit
    message
+10. `git push`
+    Sends local commits to the remote
+    repository.
+    **Note**: You may need to first create
+    a repo in github, and use `add origin`
+    to link your local repo to the remote
+    ones.
+11. `git pull`
+    Fetches and merges changes from the
+    remote repository to your local one.
